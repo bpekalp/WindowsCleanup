@@ -18,9 +18,9 @@ Bu PowerShell betiği, Windows sisteminizdeki geçici, önbellek ve gereksiz dos
 
 ## Nasıl Kullanılır? 📖
 
-1.  **Betiği İndirin:** Bu depodaki `SistemTemizleyici.ps1` dosyasını bilgisayarınıza indirin.
+1.  **Betiği İndirin:** Bu depodaki `WindowsCleanup.ps1` dosyasını bilgisayarınıza indirin.
 2.  **Yönetici Olarak Çalıştırın:**
-    * İndirdiğiniz `SistemTemizleyici.ps1` dosyasına sağ tıklayın.
+    * İndirdiğiniz `WindowsCleanup.ps1` dosyasına sağ tıklayın.
     * Bağlam menüsünden **"Yönetici olarak çalıştır"** (Run as Administrator) seçeneğini seçin.
     * PowerShell tarafından bir güvenlik uyarısı gelirse, betiği çalıştırmak için onay verin.
 
