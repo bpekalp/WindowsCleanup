@@ -37,7 +37,7 @@ $browserCachePaths = @(
     "$env:APPDATA\Mozilla\Firefox\Profiles\*\cache2",
     "$env:APPDATA\Mozilla\Firefox\Profiles\*\startupCache",
     "$env:LOCALAPPDATA\Opera Software\Opera Stable\Cache",
-    "$env:LOCALAPDATA\BraveSoftware\Brave-Browser\User Data\Default\Cache"
+    "$env:LOCALAPPDATA\BraveSoftware\Brave-Browser\User Data\Default\Cache"
 )
 
 # Dosyaları ve Klasörleri Silme Fonksiyonu
