@@ -30,7 +30,7 @@ $pathsToClean = @(
 
 # Tarayıcı Önbellekleri ve Günlükleri (Varsa) 🌐
 $browserCachePaths = @(
-    "$env:LOCALAPDATA\Google\Chrome\User Data\Default\Cache",
+    "$env:LOCALAPPDATA\Google\Chrome\User Data\Default\Cache",
     "$env:LOCALAPPDATA\Google\Chrome\User Data\Default\Code Cache",
     "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Cache",
     "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Code Cache",
